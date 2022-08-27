@@ -18,6 +18,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-install and configure Dart, Flutter, Android Studio, Visual Studio Code, etc
-flutter create .
+1) install and configure Dart, Flutter, Android Studio, Visual Studio Code, etc,
+
+2) flutter create .
+
+3) Run it as desired from VScode
 
